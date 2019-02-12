@@ -1,0 +1,10 @@
+{
+  "name": "mongoDb",
+  "connector": "mongodb",
+  "url": "mongodb://localhost/lbapi",
+  "host": "localhost",
+  "port": 80,
+  "user": "",
+  "password": "",
+  "database": "lbapi"
+}
